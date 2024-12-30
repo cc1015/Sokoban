@@ -1,0 +1,27 @@
+The goal of this game is to cover all of the targets on the board with their color corresponding trophies.
+
+When the game starts, control the player with the left, right, up, and down keys. 
+
+The player can move one space at a time and push a trophy or a box to the next spot.
+
+The player can only push the trophy or box if the space next to the trophy or box is empty (i.e. the player cannot push more than one trophy or box at a time).
+
+The player cannot push a wall.
+
+If a trophy or box is pushed into a hole, both the trophy or box and the hole disappear from the game, leaving a blank space in the original spot.
+
+If a player falls into the hole, the player and the hole disappear, ending the game.
+
+If a player, trophy, or box moves onto an ice block, it will slide across until it reaches the next non-ice block in that direction.
+
+A player still cannot push two trophies or a trophy and a box at the same time even if they are on ice.
+
+If a trophy starts on ice, it behaves the same as it would if it had started on a non-ice block.
+
+A player sliding across ice can only be stopped by two trophies, a trophy and a box, a wall, or if it has reached the end of the board.
+
+A trophy or box sliding across ice can only be stopped by another trophy, another box, a wall, or if it has reached the end of the board.
+
+Once a trophy is on top of target, it can still be moved off the target again. 
+
+There may be more trophies than targets, so not all trophies need to be on a target. The goal is to cover all TARGETS.
